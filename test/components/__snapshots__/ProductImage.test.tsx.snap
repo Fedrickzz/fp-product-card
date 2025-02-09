@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en ProductImage debe de mostrar el componente con el nombre del productro 1`] = `null`;
+
+exports[`Pruebas en ProductImage debe de mostrar el componente con la imagen pernalizada 1`] = `null`;

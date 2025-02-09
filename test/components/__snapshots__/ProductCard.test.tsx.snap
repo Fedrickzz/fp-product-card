@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en ProductCard debe de incrementar el contador 1`] = `null`;
+
+exports[`Pruebas en ProductCard debe de mostrar el componente con el titulo personalizado 1`] = `null`;

@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en ProductTitle debe de mostrar el componente con el nombre del productro 1`] = `null`;
+
+exports[`Pruebas en ProductTitle debe de mostrar el componente con el titulo personalizado 1`] = `null`;
